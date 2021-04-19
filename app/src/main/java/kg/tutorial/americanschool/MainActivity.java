@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView callBtn;
     private ConstraintLayout banner;
     int x = 5;
+    int a = 6;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
